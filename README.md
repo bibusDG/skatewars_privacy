@@ -154,3 +154,6 @@
 <ul>
 <li>By visiting this page on our website: <a href="https://github.com/bibusDG/skatewars_privacy" rel="external nofollow noopener" target="_blank">https://github.com/bibusDG/skatewars_privacy</a></li>
 </ul>
+</ul>
+<h3>Deleting, removing personal data</h3>
+<p>If You would like to delete, remove all Your data implemented in my app, do as follows. When You have an account go to Your account page, when using "delete my account" all of Your data (login, emial passowrds etc.) will be automatically removed. If You have any problems please contact me by e-mail: bibusapps@gmail.com or grosserd81@gmail.com. We will help You to remove all Your provided data.</p>
